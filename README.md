@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/a8rlSHPozsTEuh1ibJ/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="350"/>
 </div>
 <div id="badges" align="center">
   <a href="your-Telegram-URL">
