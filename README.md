@@ -38,4 +38,4 @@
 
 ![views](https://komarev.com/ghpvc/?username=doubledecker1&color=8F1119&style=for-the-badge&label=PASSENGERS)
 
-<sub>"Automate the boring. Ship what matters." — DD1</sub>
+<h3 align="center">"Automate the boring. Ship what matters." — DD1</h3>
