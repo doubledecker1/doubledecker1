@@ -1,61 +1,17 @@
-<!-- doubledecker1 · GitHub profile README -->
-<img src="assets/banner.png" alt="doubledecker1 — last bus out" width="100%">
+<!-- doubledecker1 · GitHub profile README — block layout -->
+<img src="assets/hero.png" alt="doubledecker1 — last bus out" width="100%">
 
 <img src="assets/ticker.svg" alt="automations · websites · software · apps · ai agents · telegram bots · llm ops" width="100%">
 
-# Hey, I'm Daniil — I automate the jobs nobody wants
-
-AI agents and automations that quietly do the boring 80% of a business while everyone's asleep.
-Mostly TypeScript and Python, mostly at 2 a.m., always with one cigarette too many and too many Docker containers.
-
-```
-> currently ..... shipping LLM agents that actually make money
-> weakness ...... naming things, and stopping at one bot
-> ask me about .. Claude tool-calling, Telegram bots at scale, Nginx voodoo
-> route ......... 26 — Omsk, night shift
-```
+<img src="assets/about.png" alt="Hey, I'm Daniil — I automate the jobs nobody wants" width="100%">
 
 [![Telegram](https://img.shields.io/badge/MESSAGE%20ME-229ED9?style=for-the-badge&logo=telegram&logoColor=05060D&labelColor=229ED9)](https://t.me/hardlancer)
 
-## SYSTEM STATUS
+<img src="assets/system-status.png" alt="System status" width="100%">
 
-| | |
-|---|---|
-| FOCUS MODE | `ON` |
-| COFFEE LEVEL | `███████░░` |
-| SLEEP | `█░░░░░░░░` |
-| BOTS DEPLOYED | `30+` |
-| TIMEZONE | `OMSK, UTC+6` |
+<img src="assets/stack.png" alt="Stack and tools" width="100%">
 
-## STACK & TOOLS
-
-**Languages**
-[![](https://skillicons.dev/icons?i=ts,js,python,bash&theme=dark)](https://skillicons.dev)
-
-**Frontend & Backend**
-[![](https://skillicons.dev/icons?i=react,nodejs,fastapi,tailwind,postgres,redis&theme=dark)](https://skillicons.dev)
-
-**DevOps & Tools**
-[![](https://skillicons.dev/icons?i=docker,nginx,cloudflare,linux,git,github,vscode&theme=dark)](https://skillicons.dev)
-
-**AI & Automation**
-`CLAUDE / LLM` · `TELEGRAM BOT API` · `OPENAI` · `N8N`
-
-## PROJECT SPOTLIGHT
-
-<img src="assets/ai-manager.jpg" alt="AI Manager" width="420" align="right">
-
-### AI MANAGER
-
-Meet the coworker who reads every message in seconds, never says "let me check",
-and books the appointment before the client changes their mind.
-Lives in Telegram. Doesn't need coffee.
-
-`CLAUDE` · `PYTHON` · `TELEGRAM` · `DOCKER` · `FASTAPI`
-
-🔴 **SHIPPING TO PRODUCTION SOON**
-
-<br clear="right">
+<img src="assets/spotlight.png" alt="Project spotlight — AI Manager" width="100%">
 
 ## NIGHT ARCADE
 
@@ -65,7 +21,7 @@ Lives in Telegram. Doesn't need coffee.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doubledecker1/doubledecker1/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doubledecker1/doubledecker1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/doubledecker1/doubledecker1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/doubledecker1/doubledecker1/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
 ![views](https://komarev.com/ghpvc/?username=doubledecker1&color=8F1119&style=for-the-badge&label=PASSENGERS)

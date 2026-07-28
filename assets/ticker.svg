@@ -1,10 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="34" viewBox="0 0 1200 34" role="img" aria-label="AUTOMATIONS · WEBSITES · SOFTWARE · APPS · AI AGENTS · TELEGRAM BOTS · LLM OPS ·">
-  <rect width="1200" height="34" fill="#d81f2a"></rect>
-  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" font-weight="700" letter-spacing="3.2" fill="#05060d">
-    <g>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1800 0" begin="0s" dur="22s" repeatCount="indefinite"></animateTransform>
-      <text x="0" y="22">AUTOMATIONS · WEBSITES · SOFTWARE · APPS · AI AGENTS · TELEGRAM BOTS · LLM OPS · AUTOMATIONS · WEBSITES · SOFTWARE · APPS · AI AGENTS · TELEGRAM BOTS · LLM OPS · </text>
-      <text x="1800" y="22">AUTOMATIONS · WEBSITES · SOFTWARE · APPS · AI AGENTS · TELEGRAM BOTS · LLM OPS · AUTOMATIONS · WEBSITES · SOFTWARE · APPS · AI AGENTS · TELEGRAM BOTS · LLM OPS · </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="38" viewBox="0 0 1240 38" role="img" aria-label="AUTOMATIONS · WEBSITES · SOFTWARE · APPS · AI AGENTS · TELEGRAM BOTS · LLM OPS ·">
+  <defs><clipPath id="c"><rect width="1240" height="38" rx="10"></rect></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="1240" height="38" fill="#d81f2a"></rect>
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" font-weight="700" letter-spacing="3.4" fill="#05060d">
+      
+      <text x="0" y="25">AUTOMATIONS · WEBSITES · SOFTWARE · APPS · AI AGENTS · TELEGRAM BOTS · LLM OPS · AUTOMATIONS · WEBSITES · SOFTWARE · APPS · AI AGENTS · TELEGRAM BOTS · LLM OPS · </text>
+      <text x="1860" y="25">AUTOMATIONS · WEBSITES · SOFTWARE · APPS · AI AGENTS · TELEGRAM BOTS · LLM OPS · AUTOMATIONS · WEBSITES · SOFTWARE · APPS · AI AGENTS · TELEGRAM BOTS · LLM OPS · </text>
     </g>
   </g>
 </svg>
