@@ -5,8 +5,6 @@
 
 <img src="assets/about.png" alt="Hey, I'm Daniil — I automate the jobs nobody wants" width="100%">
 
-<img src="assets/system-status.png" alt="System status" width="100%">
-
 <img src="assets/stack.png" alt="Stack and tools" width="100%">
 
 <img src="assets/spotlight.png" alt="Project spotlight — AI Manager" width="100%">
