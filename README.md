@@ -5,13 +5,15 @@
 
 <img src="assets/about.png" alt="Hey, I'm Daniil — I automate the jobs nobody wants" width="100%">
 
-[![Telegram](https://img.shields.io/badge/MESSAGE%20ME-229ED9?style=for-the-badge&logo=telegram&logoColor=05060D&labelColor=229ED9)](https://t.me/hardlancer)
-
 <img src="assets/system-status.png" alt="System status" width="100%">
 
 <img src="assets/stack.png" alt="Stack and tools" width="100%">
 
 <img src="assets/spotlight.png" alt="Project spotlight — AI Manager" width="100%">
+
+<p align="center">
+  <a href="https://t.me/hardlancer"><img alt="Message me on Telegram" height="56" src="https://img.shields.io/badge/MESSAGE%20ME%20ON%20TELEGRAM-05060D?style=for-the-badge&logo=telegram&logoColor=229ED9"></a>
+</p>
 
 ## NIGHT ARCADE
 
