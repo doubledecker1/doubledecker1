@@ -22,7 +22,7 @@
 <img src="assets/spotlight.png" alt="Project spotlight — AI Manager" width="100%">
 
 <p align="center">
-  <a href="https://t.me/hardlancer"><img alt="Message me on Telegram" height="56" src="https://img.shields.io/badge/MESSAGE%20ME%20ON%20TELEGRAM-05060D?style=for-the-badge&logo=telegram&logoColor=229ED9"></a>
+  <a href="https://t.me/hardlancer"><img alt="Message me on Telegram" height="72" src="https://img.shields.io/badge/MESSAGE%20ME%20ON%20TELEGRAM-05060D?style=for-the-badge&logo=telegram&logoColor=229ED9"></a>
 </p>
 
 ## NIGHT ARCADE
