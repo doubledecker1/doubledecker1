@@ -5,7 +5,19 @@
 
 <img src="assets/about.png" alt="Hey, I'm Daniil — I automate the jobs nobody wants" width="100%">
 
-<img src="assets/stack.png" alt="Stack and tools" width="100%">
+## STACK & TOOLS
+
+**Languages**
+[![](https://skillicons.dev/icons?i=ts,js,python,bash&theme=dark)](https://skillicons.dev)
+
+**Frontend & Backend**
+[![](https://skillicons.dev/icons?i=react,nodejs,fastapi,tailwind,postgres,redis&theme=dark)](https://skillicons.dev)
+
+**DevOps & Tools**
+[![](https://skillicons.dev/icons?i=docker,nginx,cloudflare,linux,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+**AI & Automation**
+`CLAUDE / LLM` · `TELEGRAM BOT API` · `OPENAI` · `N8N`
 
 <img src="assets/spotlight.png" alt="Project spotlight — AI Manager" width="100%">
 
